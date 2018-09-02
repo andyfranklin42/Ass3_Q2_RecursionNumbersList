@@ -1,0 +1,7 @@
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\obj\Debug\Ass3_Q2_RecursionNumbersList.csprojAssemblyReference.cache
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\obj\Debug\Ass3_Q2_RecursionNumbersList.csproj.CoreCompileInputs.cache
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\bin\Debug\Ass3_Q2_RecursionNumbersList.exe.config
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\bin\Debug\Ass3_Q2_RecursionNumbersList.exe
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\bin\Debug\Ass3_Q2_RecursionNumbersList.pdb
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\obj\Debug\Ass3_Q2_RecursionNumbersList.exe
+c:\users\franklina\source\repos\Ass3_Q2_RecursionNumbersList\Ass3_Q2_RecursionNumbersList\obj\Debug\Ass3_Q2_RecursionNumbersList.pdb
